@@ -1,6 +1,4 @@
-# About Me
-
-Hi, there I'm Kade. I'm a computer science student at Victoria University of Wellington. I am in my final year of studies and am looking to get my start in the software industry.
+Kia Ora, I'm Kade, a computer science student at Victoria University of Wellington. I am in my final year of studies and am looking to get my start in the software industry.
 
 <!--
 **kadeallendev/kadeallendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
