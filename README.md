@@ -1,5 +1,7 @@
 Kia Ora, I'm Kade, a computer science student at Victoria University of Wellington. I am in my final year of studies and am looking to get my start in the software industry.
 
+You can view all of the assignments and projects I have done in my degree at this repo: [University Showcase](https://github.com/kadeallendev/university-showcase)
+
 <!--
 **kadeallendev/kadeallendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
