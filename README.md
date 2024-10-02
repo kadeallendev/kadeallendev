@@ -2,7 +2,7 @@ Kia Ora, I'm Kade, a computer science student at Victoria University of Wellingt
 
 You can view all of the assignments and projects I have done in my degree at this repo: [University Showcase](https://github.com/kadeallendev/university-showcase).
 
-I am currently learning Golang by building a REST API project. Check it out here: [bookstore](https://github.com/kadeallendev/bookstore).
+<!-- I am currently learning Golang by building a REST API project. Check it out here: [bookstore](https://github.com/kadeallendev/bookstore). -->
 
 <!--
 **kadeallendev/kadeallendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
